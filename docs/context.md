@@ -65,8 +65,6 @@ que necessitem encontrar um lar e cuidador temporário
 para seu animal no seu tempo de ausência, como em
 caso de viagens.
 
-Objetivos específicos:
-
 ● Identificar hotéis perto das localidades especificadas
 pelos tutores;
 
