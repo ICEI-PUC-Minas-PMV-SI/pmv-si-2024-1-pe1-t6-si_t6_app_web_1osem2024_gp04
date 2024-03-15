@@ -64,7 +64,7 @@ Identificar hotéis de cachorros e/ou gatos para tutores
 que necessitem encontrar um lar e cuidador temporário
 para seu animal no seu tempo de ausência, como em
 caso de viagens.
-
+k
 ● Identificar hotéis perto das localidades especificadas
 pelos tutores;
 
