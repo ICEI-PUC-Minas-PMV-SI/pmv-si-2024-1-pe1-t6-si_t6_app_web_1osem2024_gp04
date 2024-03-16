@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto "Pet Match" é um site que visa facilitar a busca por hospedagem de animais de estimação, conectando tutores a hotéis e cuidadores locais verificados. Pois, com a crescente demanda por serviços de hospedagem para pets no Brasil, o Pet Match oferece uma plataforma de pesquisa, comparação e reserva de hospedagem, proporcionando tranquilidade aos tutores e conforto aos pets durante suas ausências. Ademais, o site também inclui informações detalhadas sobre as instalações e políticas de cada estabelecimento, além de uma área onde os usuários podem fornecer informações sobre seus animais de estimação para garantir que suas necessidades sejam atendidas durante a hospedagem.
 
 ## Integrantes
 
