@@ -20,7 +20,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * João Gabriel Rosa Costa
 ## Orientador
 
-* Nome completo do professor 1
+* Nesley Jesus Daher de Oliveira
 
 # Planejamento
 
