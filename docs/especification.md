@@ -2,7 +2,7 @@
 
 Ana tem 28 anos e é uma profissional de marketing em uma empresa internacional. Sua carreira exige que ela viaje pelo menos duas vezes ao mês para participar de reuniões, conferências e eventos em diferentes partes do país e do mundo. Ela tem um adorável labrador chamado Max. Quando Ana viaja, deixa Max em um hotel para cachorros, o qual nem sempre tem disponibilidade e é caro. Quando não há disponibilidade, Max fica sozinho e amigos vão à sua casa para colocar comida e água para ele. Ana gostaria de conhecer outras opções na região, mas precisa de mais informações e avaliações sobre outros locais.
 
-Marcos tem 35 anos, tem um hotel para pets em sua cidade, gostaria de encontrar mais clientes em potencial, marcos atende pricipalmente cachorros em seu hotel.
+Marcos tem 35 anos, tem um hotel para pets em sua cidade, gostaria de encontrar mais clientes em potencial, marcos atende principalmente cachorros em seu hotel.
 
 Pedro tem 22 anos e é um estudante universitário que mora em um apartamento pequeno e não tem tempo suficiente para cuidar de um animal de estimação em tempo integral. No entanto, ele adora a companhia de pets e gostaria de poder hospedá-los em seu espaço durante as férias ou fins de semana prolongados para ganhar um dinheiro extra.
 
@@ -70,20 +70,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-012| A aplicação precisa ter uma interface amigável com o usuário |  ALTA | 
 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
