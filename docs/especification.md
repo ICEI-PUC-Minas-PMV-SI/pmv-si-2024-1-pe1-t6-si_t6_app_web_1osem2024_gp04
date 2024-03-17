@@ -21,7 +21,7 @@ Lúcia tem 65 e é uma pessoa apaixonada por animais, que dedicou sua vida a cui
 |Dono de pet         |ver fotos do local onde meu pet ficará hospedado           |ter certeza que é um local adequado               |
 |Dono de pet         |saber antecipadamente o valor total da estadia           |não ter surpresas financeiras               |
 |Cuidador de pets         |que potenciais clientes da região me achem           |para ganhar dinheiro               |
-|Cuidador de pet         |preciso saber os detalhes da estadia, como horarios que o pet se alimenta, remédios que toma, necessidades especiais e outras observações|Não aceitar um pet que eu não consiga cuidar|
+|Cuidador de pet         |preciso saber os detalhes da estadia, como horarios que o pet se alimenta, remédios que toma, necessidades especiais e outras observações|não aceitar um pet que eu não consiga cuidar|
 |Dono de pet         |pagamento se pela plataforma           |garantir que não vou tomar calote               |
 
 ## Requisitos
