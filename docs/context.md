@@ -106,9 +106,3 @@ Amantes de Animais que Trabalham: Para aqueles que têm paixão por animais, mas
 Estudantes Universitários: Se você é um estudante universitário com um pet e precisa de assistência durante os períodos de férias ou enquanto está ocupado com os estudos, oferecemos cuidados temporários para garantir o bem-estar do seu animal de estimação.
 
 No PetMatch, estamos comprometidos em fornecer cuidados excepcionais para seus animais de estimação, independentemente das circunstâncias. Junte-se a nós e descubra como podemos tornar a vida com seu pet mais fácil e conveniente.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
