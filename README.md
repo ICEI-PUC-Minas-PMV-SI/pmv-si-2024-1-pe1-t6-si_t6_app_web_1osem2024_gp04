@@ -13,11 +13,11 @@ O projeto "Pet Match" é um site que visa facilitar a busca por hospedagem de an
 * Dimitry Gonçalves Machado
 * Edilson Alves de Souza Junior
 * Isadora Silva Matos
+* * João Gabriel Rosa Costa
 * João Vitor Fernandes Oliveira
 * Laura Furtado dos Reis
 * Marcos Antonio Araujo Junior
 * Victor Mont-Morency Gondim Rodrigues
-* João Gabriel Rosa Costa
 ## Orientador
 
 * Nesley Jesus Daher de Oliveira
