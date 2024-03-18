@@ -33,7 +33,7 @@ serviço.
 
 Ao oferecer uma solução inovadora e conveniente, o nosso site visa melhorar a 
 experiência dos tutores e garantir o conforto e a segurança dos animais durante sua 
-hospedagem, contribuindo para o bem-estar e a felicidade de toda a família
+hospedagem, contribuindo para o bem-estar e a felicidade de toda a família.
 
 ## Problema
 
