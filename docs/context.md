@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 
 O Brasil é um dos países com o maior número de animais de estimação. Segundo 
 uma pesquisa realizada pelo censo do IPB, Instituto Pet Brasil, 70% da população 
