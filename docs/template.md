@@ -27,6 +27,8 @@ Cores presentes no projeto:
 A Fonte utilizada para todo o projeto é a Montserrat.
 
 ## Iconografia
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/82b7ee97-dfef-4e22-a614-3d06fc632d64) utilizado no botão de pesquisa
+
 ![filtro (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/7b16c25a-78ac-409c-9dec-4576d2f83fef) utilizado para filtrar hosts
 
 ![favorito](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/6e70a4b3-796f-4208-ae67-401d197141d3) utilizado na avaliação do local
