@@ -17,7 +17,7 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 ## Tipografia
 
 Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
-
+**Texto em negrito e vermelho**: <span style="color:#FF0000">Texto em negrito e vermelho</span>
 
 ## Iconografia
 
