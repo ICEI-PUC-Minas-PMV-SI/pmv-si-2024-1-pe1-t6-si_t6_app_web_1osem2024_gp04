@@ -24,8 +24,7 @@ Cores presentes no projeto:
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
-**Texto em negrito e vermelho**: <span style="color:#FF0000">Texto em negrito e vermelho</span>
+A Fonte utilizada para todo o projeto é a Montserrat.
 
 ## Iconografia
 
