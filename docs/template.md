@@ -5,7 +5,7 @@
 Template padrão do site terá o header com a navegação na parte de cima.
 
 ## Design
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/af03bcbc-d2b8-484c-850f-c88015024943) homepage
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/af03bcbc-d2b8-484c-850f-c88015024943) Homepage
 
 A Logo ficará no canto superior esquerdo em todas as telas, e o menu no canto superior direito.
 
