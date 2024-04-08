@@ -11,10 +11,15 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 Cores presentes no projeto: 
+
 #000302
+
 #242BA6
+
 #F29F05
+
 #F28705
+
 #F20505
 
 ## Tipografia
