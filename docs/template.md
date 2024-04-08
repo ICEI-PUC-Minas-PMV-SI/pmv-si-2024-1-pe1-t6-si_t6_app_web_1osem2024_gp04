@@ -12,7 +12,8 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 ## Cores
 Cores presentes no projeto: 
 
-#000302
+<span style="color:blue" Joao>
+#000302 
 
 #242BA6
 
