@@ -12,8 +12,6 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 ## Cores
 Cores presentes no projeto: 
 
-<font color="blue">Color.</font>
-
 #000302 
 
 #242BA6
