@@ -5,13 +5,9 @@ Link Figma: https://www.figma.com/file/J4eL1gpZmBf3PPPUxLIrfm/Untitled?type=desi
 Fluxo pré-login:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/8705598e-10df-48f9-afd4-0323ab108d5b)
 
-Fluxo pós-login:
+Fluxo pós-login dono de pet: ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/7246247e-8777-45fb-92a3-3f03a6ccebfb)
 
-dono de pet: ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/7246247e-8777-45fb-92a3-3f03a6ccebfb)
-
-host: ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/0031314a-e236-40ed-9536-7dcfb9069458)
-
-
+Fluxo pós-login host: ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/0031314a-e236-40ed-9536-7dcfb9069458)
 
 ## Wireframes
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/1804eba9-4c3a-4b8d-ad94-8e7c31f4feda)
