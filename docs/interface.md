@@ -1,10 +1,6 @@
 Link Figma: https://www.figma.com/file/J4eL1gpZmBf3PPPUxLIrfm/Untitled?type=design&node-id=102%3A2&mode=design&t=k90DER55jkaNsLUx-1
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
 ## User Flow
 Fluxo pré-login:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/8705598e-10df-48f9-afd4-0323ab108d5b)
