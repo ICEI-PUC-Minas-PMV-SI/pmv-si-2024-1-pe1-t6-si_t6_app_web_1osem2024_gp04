@@ -27,6 +27,9 @@ Cores presentes no projeto:
 A Fonte utilizada para todo o projeto é a Montserrat.
 
 ## Iconografia
+![favorito](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/6e70a4b3-796f-4208-ae67-401d197141d3) utilizado na avaliação do local
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp04/assets/67494565/0a59eede-4606-4301-a969-17a8896c2513) - utilizado ao lado do bairro do local
 
 Defina os ícones que serão utilizados e suas respectivas funções.
 
