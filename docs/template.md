@@ -12,15 +12,15 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 ## Cores
 Cores presentes no projeto: 
 
-#000302 
+#000302 - Azul Escuro
 
-#242BA6
+#242BA6 - Azul Real
 
-#F29F05
+#F29F05 - Âmbar
 
-#F28705
+#F28705 - Laranja
 
-#F20505
+#F20505 - Vermelho
 
 ## Tipografia
 
