@@ -23,14 +23,13 @@ O PetMatch é um site que oferece uma lista de hotéis e locais para animais de 
 
 Avaliação de Maria Silva
 
-    Avaliação: ⭐️⭐️⭐️⭐️[Etapa 4 Finalizada.zip](https://github.com/user-attachments/files/15755944/Etapa.4.Finalizada.zip)
+    Avaliação: ⭐️⭐️⭐️⭐️
 
     Comentário: "A navegação no site PetMatch é bastante intuitiva. Encontrei facilmente as opções de busca e os formulários de cadastro. Mal posso esperar para ver o site em pleno funcionamento!"
 
 Avaliação de João Oliveira
 
-    Avaliaç[Etapa 4 Finalizada.zip](https://github.com/user-attachments/files/15755942/Etapa.4.Finalizada.zip)
-ão: ⭐️⭐️⭐️⭐️
+    Avaliação: ⭐️⭐️⭐️⭐️
     Comentário: "O layout do site PetMatch é muito promissor! Os menus são bem organizados e os botões de navegação são bem visíveis. Estou ansioso para ver todas as funcionalidades implementadas."
 
 Avaliação de Ana Santos
@@ -40,3 +39,7 @@ Avaliação de Ana Santos
 
 
 Em anexo o arquivo zip com todo o codigo do site.
+
+[Etapa 4 Finalizada.zip](https://github.com/user-attachments/files/15755958/Etapa.4.Finalizada.zip)
+
+
