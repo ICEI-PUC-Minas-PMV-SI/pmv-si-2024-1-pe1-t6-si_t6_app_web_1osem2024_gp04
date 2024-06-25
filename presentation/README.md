@@ -9,6 +9,8 @@ Aqui está um resumo do processo de desenvolvimento e a solução final apresent
 
 Identidade Visual e Conjunto de Slides
 
+A gente usou a identidade visual padrão do Bootstrap, cor primary e logo própia.
+
 Nos slides, buscamos manter uma identidade visual consistente com a marca do projeto, utilizando figuras, imagens e cores que refletem a temática do problema abordado. O conjunto de slides foi estruturado de forma a apresentar de maneira clara e concisa todo o desenvolvimento do projeto, destacando os insumos gerados e os requisitos atendidos.
 Vídeo de Demonstração
 
